@@ -1,0 +1,19 @@
+Virtual Environment
+
+.venv/
+venv/
+env/
+
+Data Files (CRITICAL: Do not deploy user data)
+
+expenses.json
+
+Python specific files
+
+pycache/
+*.pyc
+*.log
+Local App Files to Ignore
+
+expense_export.csv
+expense_tracker_OLD.py
